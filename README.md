@@ -12,6 +12,7 @@ RFID Logging system.
      RFID card -> RFID reader ↓
 		                     	Pico W -> Wi-Fi -> Backend↓
 						                                      SQLite -> JS-> Front end
+ 
    2.2 Visualized structure:<img width="271" height="571" alt="Pico_architecture_final" src="https://github.com/user-attachments/assets/da927793-98bb-427b-83f6-8deb53ceed95" />
 
    2.3 Development limits:
