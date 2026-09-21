@@ -17,10 +17,11 @@ RFID Logging system.
  
    2.2 Visualized structure:<img width="271" height="571" alt="Pico_architecture_final" src="https://github.com/user-attachments/assets/da927793-98bb-427b-83f6-8deb53ceed95" />
 
-   2.3 Development limits:
+   2.3 Development limits
        
 	   2.3.1 Language: Due to the system strain caused by Python and our unfamiliarity of C++, the entire project will be written using MicroPy.
        
 	   2.3.2 Hardware: Hardware limitations could limit on how we implement certain features in the final product.
 
+	   2.3.3 Full component list: Raspberry Pi Pico W, 2.4 GHz Antenna, RFID Reader/Writer, LED Light, Buzzer
 # 3. BACKLOG: TBD
